@@ -3,6 +3,8 @@ Java Things for **School Project** purpose
 # Branches
 [Init/HelloWorld](https://github.com/czakk/java-things/tree/Init/HelloWorld) - Initialazing Branch with simple code
 
-[Zadanie1](https://github.com/czakk/java-things/tree/Zadanie1) - Zadanie1
+[Zadanie1](https://github.com/czakk/java-things/tree/Zadanie1) - Zadanie1 - Strings and Scanners
 
-[Zadanie2](https://github.com/czakk/java-things/tree/Zadanie2) - Zadanie2
+[Zadanie2](https://github.com/czakk/java-things/tree/Zadanie2) - Zadanie2 - Loops
+
+[Zadanie3](https://github.com/czakk/java-things/tree/Zadanie3) - Zadanie2 - Methods and Arrays
