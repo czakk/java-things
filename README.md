@@ -8,4 +8,5 @@ Java Things for **School Project** purpose
 [Zadanie2](https://github.com/czakk/java-things/tree/Zadanie2) - Zadanie2 - Loops
 
 [Zadanie3](https://github.com/czakk/java-things/tree/Zadanie3) - Zadanie3 - Methods and Arrays
+
 [Zadania4](https://github.com/czakk/java-things/tree/Zadania4) - Zadania4 - Class
