@@ -1,4 +1,4 @@
-package com.company.z2;
+package com.company;
 import static java.lang.Math.*;
 
 public class point {
@@ -19,8 +19,5 @@ public class point {
         System.out.println("Dystans: "+sqrt( (Math.pow(x-this.x, 2))+ (Math.pow(y-this.y, 2))));
         }
 
-    void count_distance_w_class(){
-        System.out.println("Dystans: "+sqrt( (Math.pow(x2-this.x, 2))+ (Math.pow(y2-this.y, 2))));
-    }
     }
 
