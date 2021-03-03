@@ -9,8 +9,7 @@ public class Bakery extends Shop{
 
     @Override
     public void get_info(){
-        Shop shop = new Shop(address, size);
-        shop.get_info();
+        super.get_info();
         System.out.println("Nasze wypieki:");
         for (String i : products){
             System.out.println(i);
