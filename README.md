@@ -16,3 +16,5 @@ Java Things for **School Project** purpose
 [Zadanie6](https://github.com/czakk/java-things/tree/Zadanie6) - Zadanie6 - Composition
 
 [Zadanie7](https://github.com/czakk/java-things/tree/Zadanie7) - Zadanie7 - Extends
+
+[Zadanie8](https://github.com/czakk/java-things/tree/Zadanie8) - Zadanie8 - Abstract
