@@ -18,3 +18,5 @@ Java Things for **School Project** purpose
 [Zadanie7](https://github.com/czakk/java-things/tree/Zadanie7) - Zadanie7 - Extends
 
 [Zadanie8](https://github.com/czakk/java-things/tree/Zadanie8) - Zadanie8 - Abstract
+
+[Zadanie9](https://github.com/czakk/java-things/tree/Zadanie0) - Zadanie0 - Exception
