@@ -22,7 +22,7 @@ public class main {
         cel.setBounds(90, 50, 100, 30);
         window.add(cel);
 
-        JLabel add = new JLabel("Suma");
+        JLabel add = new JLabel("Wynik");
         add.setBounds(100, 120, 200, 30);
         window.add(add);
 
