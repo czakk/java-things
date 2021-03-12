@@ -21,4 +21,4 @@ Java Things for **School Project** purpose
 
 [Zadanie9](https://github.com/czakk/java-things/tree/Zadanie9) - Zadanie9 - Exception
 
-[Zadanie10](https://github.com/czakk/java-things/tree/Zadanie9) - Zadanie10 - Interface
+[Zadanie10](https://github.com/czakk/java-things/tree/Zadanie10) - Zadanie10 - Interface
